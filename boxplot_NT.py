@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Author: Fei Jing
+Author: Anna Fei
 Date: 24/Nov/2017
 Usage: python plot_paired.py expression.txt
 Function: 
